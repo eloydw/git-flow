@@ -11,4 +11,8 @@ class Calc
   def multiplication
     @a * @b
   end
+
+  def subtraction
+    @a - @b
+  end
 end
